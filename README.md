@@ -1,4 +1,10 @@
 ### Hi there 👋
+Welcome to my profile
+
+### What I do
+I am a Data Scientist working with a multnational company delivering quality pharma related projects.
+
+
 
 <!--
 **do2blehelix/do2blehelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
