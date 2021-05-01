@@ -2,6 +2,8 @@
 Welcome to my profile
 
 ### What I do
+
+# I DESIGN | I CODE | I DEPLOY
 I am a Data Scientist working with a multnational company delivering quality pharma related projects.
 
 
