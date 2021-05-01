@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I am Ayan
 Welcome to my profile
 
-### What I do
+# What I do
 
-# I DESIGN &emsp; I CODE  &emsp; I DEPLOY &emsp; I SOLVE
+> # I DESIGN &emsp; I CODE  &emsp; I DEPLOY &emsp; I SOLVE
 I am a Data Scientist working with a multnational company delivering quality pharma related projects.
 
+<!--
+# My Websites
+
+![](https://www.travelengine.co/images/social_image.jpg)
+![](https://www.hungryaf.in/images/social_image.png)
 
 
 <!--
