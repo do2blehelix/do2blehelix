@@ -4,7 +4,7 @@ Welcome to my profile
 # What I do
 
 > # I DESIGN &emsp; I CODE  &emsp; I DEPLOY &emsp; I SOLVE
-I am a Data Scientist working with a multnational company delivering quality pharma related projects.
+I am a Data Scientist working with a multinational company delivering quality pharma related projects.
 
 <!--
 # My Websites
